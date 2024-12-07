@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("probiotics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75014924eb78ad4efbb709d088649dfd82d81016")]
 [assembly: System.Reflection.AssemblyProductAttribute("probiotics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("probiotics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
